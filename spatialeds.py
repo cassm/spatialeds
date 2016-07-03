@@ -74,9 +74,9 @@ freq_g = 24
 freq_b = 24
 
 # how many seconds the color sine waves take to shift through a complete cycle
-speed_r = 7
-speed_g = -13
-speed_b = 19
+speed_r = 1.4
+speed_g = -2.6
+speed_b = 3.8
 
 start_time = time.time()
 while True:
